@@ -12,7 +12,7 @@ contract StarNotary is ERC721 {
     mapping(uint256 => Star) public tokenIdToStarInfo;
     mapping(uint256 => uint256) public starsForSale;
 
-    constructor(string memory _name, string memory _symbol) ERC721(_name, _symbol) {
+    constructor() ERC721("StarNotary", "STAR") {
 
     }
 
