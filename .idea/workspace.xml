@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828df217-8b5e-463d-ad35-b8d11c71c8bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contracts/StarNotary.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/StarNotary.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" afterDir="false" />
-    </list>
+    <list default="true" id="828df217-8b5e-463d-ad35-b8d11c71c8bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +60,7 @@
       <workItem from="1640015501377" duration="196000" />
       <workItem from="1640018753403" duration="8637000" />
       <workItem from="1640027430897" duration="601000" />
-      <workItem from="1640110997308" duration="8563000" />
+      <workItem from="1640110997308" duration="8951000" />
     </task>
     <servers />
   </component>
