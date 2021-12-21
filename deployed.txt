@@ -1,0 +1,75 @@
+(base) projects/udacity_2 » truffle migrate --reset --network goerli
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'goerli'
+> Network id:      5
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x1c27885e16775d7d461cef92e02d019f1a2c34ae3b384de82ed0ca7300e26178
+   > Blocks: 0            Seconds: 4
+   > contract address:    0x29bC4D8257320FC5b3197C396f9A0E6c1374acf6
+   > block number:        6062675
+   > block timestamp:     1640116406
+   > account:             0xC8750e48c4362653Ee792361a91dBed26c44DC61
+   > balance:             0.999698219499597626
+   > gas used:            201187 (0x311e3)
+   > gas price:           1.500000002 gwei
+   > value sent:          0 ETH
+   > total cost:          0.000301780500402374 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 6062676)
+   > confirmation number: 2 (block: 6062677)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.000301780500402374 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'StarNotary'
+   ----------------------
+   > transaction hash:    0x94a250f78930d94527474c5bebf2fd75168ea46d4182f7cc98d65380f4121924
+   > Blocks: 0            Seconds: 8
+   > contract address:    0xBDe60Cb80335800C478981d7FEe59068Aeaa3fDa
+   > block number:        6062679
+   > block timestamp:     1640116466
+   > account:             0xC8750e48c4362653Ee792361a91dBed26c44DC61
+   > balance:             0.995147288493529718
+   > gas used:            2988038 (0x2d9806)
+   > gas price:           1.500000002 gwei
+   > value sent:          0 ETH
+   > total cost:          0.004482057005976076 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+   > confirmation number: 1 (block: 6062680)
+   > confirmation number: 2 (block: 6062681)
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.004482057005976076 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.00478383750637845 ETH
